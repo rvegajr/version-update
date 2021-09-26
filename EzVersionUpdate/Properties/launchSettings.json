@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "EzVersionUpdate": {
+      "commandName": "Project",
+      "commandLineArgs": "-v 1.0.1",
+      "workingDirectory": "C:\\Dev\\Noctusoft\\version-update"
+    }
+  }
+}
